@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to CodeCreators Resources Page
 
-# Welcome to CodeCreators Resources Page
-
-2024 week 1 is now on live! <br>
+# 2024 week 1 is now on live!
 To join the course [![](https://img.shields.io/badge/Sign_up-A560E8?style=for-the-badge&logo=web&logoColor=white)](https://github.com/ccsheff24)
 
 [![](https://img.shields.io/badge/linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/ccsheff)<br>
