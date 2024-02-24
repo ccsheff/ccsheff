@@ -2,6 +2,8 @@
 
 # 2024 week 1 is now on live!
 [![](https://img.shields.io/badge/Sign_up-A560E8?style=for-the-badge&logo=web&logoColor=white)](https://github.com/ccsheff24) [![](https://img.shields.io/badge/Learn_more-7AC70C?style=for-the-badge&logo=web&logoColor=white)](https://github.com/ccsheff24) [![](https://img.shields.io/badge/linkedin-1CB0F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/ccsheff)<br>
+---
+
 [![](https://img.shields.io/badge/2024_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/ccsheff24)<br>
 [![](https://img.shields.io/badge/2023_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/EnactusSheffieldCodeCreators)<br>
 [![](https://img.shields.io/badge/2022_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/rafacavagnoli/CodeCreators)<br>
