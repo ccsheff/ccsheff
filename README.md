@@ -2,7 +2,7 @@
 
 # Welcome to CodeCreators Resources Page
 
-[![](https://img.shields.io/badge/linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/ccsheff)
+[![](https://img.shields.io/badge/linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/ccsheff)<br>
 [![](https://img.shields.io/badge/2024_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/ccsheff24)
 <!--
 **ccsheff/ccsheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
