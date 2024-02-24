@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Welcome to CodeCreators Resources Page
-Our linkedin page : https://linkedin.com/in/ccsheff
+Our linkedin page : [linkedin]https://linkedin.com/in/ccsheffield
 
 for 2023 - 2024 resources: https://github.com/ccsheff24
 <!--
