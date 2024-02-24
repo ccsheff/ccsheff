@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 # Welcome to CodeCreators Resources Page
-Our linkedin page : [linkedin]https://linkedin.com/in/ccsheffield
 
-for 2023 - 2024 resources: https://github.com/ccsheff24
+[linkedin](https://www.linkedin.com/school/ccsheff)
+
+[2024 course resources](https://github.com/ccsheff24)
 <!--
 **ccsheff/ccsheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
