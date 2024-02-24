@@ -2,7 +2,7 @@
 
 # Welcome to CodeCreators Resources Page
 
-for 2023 - 2024 resources: 
+for 2023 - 2024 resources: https://github.com/ccsheff24
 <!--
 **ccsheff/ccsheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
