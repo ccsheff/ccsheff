@@ -6,7 +6,7 @@
 
 [2024 course resources](https://github.com/ccsheff24)
 [![](https://img.shields.io/badge/linkedin-006699?style=for-the-badge&logo=linkedin&logoColor=white)](https://dev.to/shalev)
-[![](https://img.shields.io/badge/Itch.io-%20-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mushroomhater07.itch.io)
+[![](https://img.shields.io/badge/2024_course_resource-8EE000?style=for-the-badge&logo=website&logoColor=white)](https://mushroomhater07.itch.io)
 <!--
 **ccsheff/ccsheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
