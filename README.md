@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/2024_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/ccsheff24)<br>
 [![](https://img.shields.io/badge/2023_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/EnactusSheffieldCodeCreators)<br>
-[![](https://img.shields.io/badge/2022_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/rafacavagnoli/CodeCreators)<br>
+[![](https://img.shields.io/badge/2020_course_resource-FFFFFF?style=for-the-badge&logo=website&logoColor=white)](https://github.com/rafacavagnoli/CodeCreators)<br>
 
 <!--
 **ccsheff/ccsheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
